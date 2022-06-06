@@ -4,7 +4,6 @@
  * puzzle
  * Return: gives a value 0 when main function runs successfully else none 0
 */
- 
 
 int main(void)
 {
