@@ -1,6 +1,6 @@
 #include <stdio.h>
 /** main - writing a program that with proper grammar, but the outcome is a
- * piece of art, 
+ * piece of art,
  * return: gives a value of 0 when program runs else non 0
  */
 
